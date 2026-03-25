@@ -1,3 +1,4 @@
+**application link**:https://alonglifewithu.github.io/spotifyclone/
 # Spotify Music Player
 
 A modern, responsive music player web application inspired by Spotify. Built with HTML, CSS, and JavaScript.
